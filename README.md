@@ -5,10 +5,10 @@
 - Create simple React project
 - Create 'Box' component as you want.
 - Create 'Draggable' Component for make 'Box' component draggable without external library.
-  example
-  <Draggable>
-  <Box />
-  </Draggable>
+  <br/>**example**<br/>
+  `<Draggable>`<br/>
+  `<Box />`<br/>
+  `</Draggable>`
 - Make Draggable area cannot overflow current window.
 - There is additional score with using typescript, Unit test
 
